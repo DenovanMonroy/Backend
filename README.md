@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Task Manager App es una aplicación móvil desarrollada en Android Studio utilizando Kotlin y Jetpack Compose para la gestión de tareas básicas con operaciones CRUD (Crear, Leer, Actualizar, Eliminar). La aplicación se conecta a una API REST utilizando Retrofit y permite a los usuarios visualizar una lista de tareas, agregar nuevas tareas, editarlas y eliminarlas.
+Esta es una aplicación móvil desarrollada en Android Studio utilizando Kotlin y Jetpack Compose para la gestión de tareas básicas con operaciones CRUD (Crear, Leer, Actualizar, Eliminar). La aplicación se conecta a una API REST utilizando Retrofit y permite a los usuarios visualizar una lista de tareas, agregar nuevas tareas, editarlas y eliminarlas.
 
 El objetivo principal de este proyecto es proporcionar una interfaz sencilla e intuitiva para administrar tareas de manera eficiente. Se ha implementado el patrón de arquitectura MVVM (Model-View-ViewModel) para mantener una estructura de código limpia y escalable.
 
